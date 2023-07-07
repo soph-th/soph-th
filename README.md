@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophie
 - 👾 I underutilise social media for professional development
-- 🌱 I’m currently learning full stack development with School of Code
+- 🌱 I’m currently learning Python and Java
 - ✉️ Wanna get in touch? Give me a shout on [LinkedIn](https://www.linkedin.com/in/sophie-th/)
 
 [![soph-th's GitHub stats](https://github-readme-stats.vercel.app/api?username=soph-th)](https://github.com/soph-th/github-readme-stats)
